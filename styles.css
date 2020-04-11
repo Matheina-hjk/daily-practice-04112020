@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap");
+@import "mobile.css";
 body {
   font-family: "Berkshire Swash", cursive;
   background-image: url(images/harryfly.gif);
